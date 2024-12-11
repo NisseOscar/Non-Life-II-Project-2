@@ -1,0 +1,2 @@
+# Project 2 in Non-Life insurance II
+This project is about reserves and studying different ways of reserve, specifically showing how Mack Chain ladder equals to glm estimates given the same assumptions.
